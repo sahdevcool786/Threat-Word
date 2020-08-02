@@ -1,15 +1,15 @@
 The steps involved in the project are:
 
-  1.exploring the dataset also visualizing as well as cleaning the data set .
+  1.getting the data from the user in the form of English sentence.
 
-  2.Data preprocessing
+  2.Data preprocessing.
 
-  3.building machine learning models
+  3.recognising the data using google.
 
-  4.evaluating the models
+  4.opening a file name as aud_txt and pasting the data into it in the form of english swntence.
 
-  5.tuning the parameters for better accuracy
+  5.evaluating with data.
 
-  6.upsampling- Upsampling (balanced): decide how many times the sample size of the minority class wants to be used and perform sampling with replacement in the minority class and     sampling without replacement in the majority class.
+  6.matching the threat words which is available in the file name dt and dt2 comes under repositry name repo.
 
-  7.final model creation and analysis outcome.
+  7.finally giving the threat words which is spoken by you.
